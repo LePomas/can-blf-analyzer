@@ -3,3 +3,4 @@ candas
 pandas
 matplotlib
 openpyxl
+ruff
